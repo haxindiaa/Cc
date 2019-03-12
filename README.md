@@ -1,4 +1,4 @@
-apt udate     
+apt update     
 pkg update   
 apt install php   
 apt install git    
@@ -11,3 +11,4 @@ bash Card.sh
 And Subscribe hax india youtube channel.  
 telegram/Hax India  
 https://t.me/haxindia   
+
